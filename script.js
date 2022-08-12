@@ -16,6 +16,7 @@ if(yow <= 18) {
 
 /* Sogot */
 
+
 // var voxt = +prompt('soati kiritin')
 
 
